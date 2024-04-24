@@ -4,6 +4,10 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+materials,Materials
+tools,Tools
+difficulty, Difficulty
+cost,Cost
 location,Location
 latitude,Latitude
 longitude,Longitude
