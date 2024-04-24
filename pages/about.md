@@ -14,4 +14,4 @@ credits: true
 
 ## About the Collection
 
-Adult Crafts for Crafting Adults
+Adult Crafts for Crafting Adults, cause who doesn't like to craft?
